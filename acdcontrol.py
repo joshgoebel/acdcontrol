@@ -19,7 +19,7 @@ SUPPORTED_DEVICES = {
         # prod id, name, (min brightness, max brightness) or None if unknown
         (0x9215, 'Apple Studio Display 15"', None),
         (0x9217, 'Apple Studio Display 17"', None),
-        (0x9218, 'Apple Cinema Display 23"', None),
+        (0x9218, 'Apple Cinema Display 23"', (0, 255)),
         (0x9219, 'Apple Cinema Display 20"', None),
         (0x921e, 'Apple Cinema Display 24"', None),
         (0x9226, 'Apple Cinema HD Display 27"', None),
