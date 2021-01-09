@@ -24,6 +24,7 @@ SUPPORTED_DEVICES = {
         (0x921e, 'Apple Cinema Display 24"', None),
         (0x9226, 'Apple Cinema HD Display 27"', None),
         (0x9227, 'Apple Cinema HD Display 27" 2013', None),
+        (0x9221, 'Apple Cinema HD Display 30"', (0, 255)),
         (0x9232, 'Apple Cinema HD Display 30"', None),
         (0x9236, 'Apple LED Cinema Display 24"', (0, 255)),
     ),
